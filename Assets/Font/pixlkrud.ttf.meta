@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 77861abea38b9408183f967e3429fa6f
+timeCreated: 1509435339
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixel Krud (BRK)
+  fontNames:
+  - Pixel Krud (BRK)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
